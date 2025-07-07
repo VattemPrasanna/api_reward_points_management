@@ -1,4 +1,4 @@
-Here is a `README.md` file for the `api-reward-points-system` project, covering requirements, structure, and implementation details:
+Here is a `README.md` file for the `api-reward-points-management` project, covering requirements, structure, and implementation details:
 
 ```markdown
 # API Reward Points System
